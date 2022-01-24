@@ -20,6 +20,10 @@ public class StudentTest {
 		studentKim.showStudentInfo();
 		
 		
+		System.out.println(studentKim);
+		System.out.println(studentLee);
+		// 둘의 주소값이 다름
+		
 	}
 
 }
