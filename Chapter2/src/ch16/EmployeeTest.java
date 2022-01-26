@@ -14,6 +14,7 @@ public class EmployeeTest {
 		
 		System.out.println(employeeLee.getEmployeeName() + "님의 사번은" + employeeLee.getEmployeeId());
 		System.out.println(employeeKim.getEmployeeName() + "님의 사번은" + employeeKim.getEmployeeId());
+		
 
 	}
 
